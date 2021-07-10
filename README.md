@@ -1,10 +1,10 @@
-### ## Hi there, I'm Beste Tokpınar 👋
+### Hi there, I'm Beste Tokpınar 👋
 
 <!--
 **bstkpnr/bstkpnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-##I'm a Learner, Developer
+## I'm a Learner, Developer
 
 #### Social me:
 
