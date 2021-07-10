@@ -1,7 +1,7 @@
 ### Hi there, I'm Beste Tokpınar 👋
-## Reads, Learns, Builds
+## Reads, Learns, Builds :sunny:
 ### I have a bachelor degree in Computer Engineering (Iskenderun Technical University | 2021)
-### I'm trying to enhance myself at the software through ReactJS in front-end.
+### I'm trying to improve myself in the front-end.
 
 
 
@@ -10,7 +10,7 @@
 <a href="https://medium.com/@bstkpnr" target="_blank"><img src="socialmedia/medium.png" alt="Medium" width="24"></a>
 <a href="https://www.linkedin.com/in/beste-tokpinar/" target="_blank"><img src="socialmedia/linkedin.png" alt="Linkedin" width="24"></a>
 <a href="https://twitter.com/devbastet" target="_blank"><img src="socialmedia/twitter.png" alt="Twitter" width="24"></a>
-<a href="https://www.instagram.com/bestkpnr/?hl=tr" target="_blank"><img src="socialmedia/instagram.png" alt="Instagram" width="24"></a>
+<a href="https://www.instagram.com/bestkpnr/?hl=tr" target="_blank"><img src="socialmedia/insta.png" alt="Instagram" width="24"></a>
 <a href="https://open.spotify.com/user/bstkpnr01?si=bdd71020a9a146cd" target="_blank"><img src="socialmedia/spotify.png" alt="Spotify" width="24"></a>
 <a href="https://www.youtube.com/channel/UCID3eaPgFHwle9_ZiaF9rKA" target="_blank"><img src="socialmedia/spotify.png" alt="youtube" width="24"></a>
 
