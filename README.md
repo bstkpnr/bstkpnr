@@ -3,6 +3,12 @@
 ### I have a bachelor degree in Computer Engineering (Iskenderun Technical University | 2021)
 ### I'm trying to improve myself in the front-end.
 
+<h3 align="center">
+  
+[My Resume](https://techrez.io/resume/bestetokpinar)
+  
+</h3>
+
 
 
 ### Social me:
