@@ -6,13 +6,6 @@
  
 *Software developer with 5 years of mobile and web experience, building production-minded AI features: tool use, semantic search and RAG.*
 
-<h3 align="center">
-  
-[My Resume](https://techrez.io/resume/bestetokpinar)
-  
-</h3>
-
-
 ### 🚀 Şu an üzerinde çalıştığım proje
  
 **[Harcama Koçu](https://github.com/bstkpnr/ai-engineer-lessons/tree/main/harcama-kocu)**: Banka SMS'lerinden harcamaları çıkaran ve harcamalar hakkında sohbet edilebilen bir mobil finans asistanı.
