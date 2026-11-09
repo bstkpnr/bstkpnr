@@ -1,7 +1,10 @@
 ### Hi there, I'm Beste Tokpınar 👋
 ## Reads, Learns, Builds :sunny:
-### I have a bachelor degree in Computer Engineering (Iskenderun Technical University | 2021)
-### I'm trying to improve myself in the front-end.
+### Merhaba 👋
+ 
+5 yıldır mobil ve web uygulamaları geliştiriyorum. Şimdi bu deneyimi yapay zekâyla birleştirip **AI Engineer** olma yolunda ilerliyorum ve öğrendiklerimi gerçek bir uygulama üzerinde, adım adım paylaşıyorum.
+ 
+*Software developer with 5 years of mobile and web experience, building production-minded AI features: tool use, semantic search and RAG.*
 
 <h3 align="center">
   
@@ -10,68 +13,66 @@
 </h3>
 
 
-
-### Social me:
-
-<a href="https://medium.com/@bstkpnr" target="_blank"><img src="socialmedia/medium.png" alt="Medium" width="24"></a>
-<a href="https://www.linkedin.com/in/beste-tokpinar/" target="_blank"><img src="socialmedia/linkedin.png" alt="Linkedin" width="24"></a>
-<a href="https://twitter.com/devbastet" target="_blank"><img src="socialmedia/twitter.png" alt="Twitter" width="24"></a>
-<a href="https://www.instagram.com/bestkpnr/?hl=tr" target="_blank"><img src="socialmedia/insta.png" alt="Instagram" width="24"></a>
-<a href="https://open.spotify.com/user/bstkpnr01?si=bdd71020a9a146cd" target="_blank"><img src="socialmedia/spotify.png" alt="Spotify" width="24"></a>
-<a href="https://www.youtube.com/channel/UCID3eaPgFHwle9_ZiaF9rKA" target="_blank"><img src="socialmedia/youtube.png" alt="youtube" width="24"></a>
-
-
-#### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-<!--
-**bstkpnr/bstkpnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### I'm a Learner, Developer
-
-#### Social me:
-
-<a href="https://medium.com/@bstkpnr" target="_blank"><img src="socialmedia/medium.png" alt="Medium" width="24"></a>
-<a href="https://www.linkedin.com/in/beste-tokpinar/" target="_blank"><img src="socialmedia/linkedin.png" alt="Linkedin" width="24"></a>
-<a href="https://twitter.com/devbastet" target="_blank"><img src="socialmedia/twitter.png" alt="Twitter" width="24"></a>
-<a href="https://www.instagram.com/bestkpnr/?hl=tr" target="_blank"><img src="socialmedia/instagram.png" alt="Instagram" width="24"></a>
-<a href="https://open.spotify.com/user/bstkpnr01?si=bdd71020a9a146cd" target="_blank"><img src="socialmedia/spotify.png" alt="Spotify" width="24"></a>
-<a href="https://www.youtube.com/channel/UCID3eaPgFHwle9_ZiaF9rKA" target="_blank"><img src="./youtube.png" alt="youtube" width="24"></a>
-
-#### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Şu an üzerinde çalıştığım proje
+ 
+**[Harcama Koçu](https://github.com/bstkpnr/ai-engineer-lessons/tree/main/harcama-kocu)**: Banka SMS'lerinden harcamaları çıkaran ve harcamalar hakkında sohbet edilebilen bir mobil finans asistanı.
+ 
+- **Mobil uygulama:** Expo, React Native, TypeScript
+- **Backend:** Node.js. Koç, rakam gereken sorularda araçları (tool use) kendisi çağırıyor; hesabı her zaman kod yapıyor.
+- **Anlamsal arama:** "Kahveye ne kadar harcadım?" sorusunda, satıcının adı geçmese bile Starbucks'ı buluyor.
+- **RAG servisi:** Python, FastAPI ve Qdrant ile yazılmış ayrı bir servis. Kredi kartı sözleşmesi ve kart kanunu üzerinde hibrit arama (anlam + kelime) yapıyor, her cevabın kaynağını sayfa ve madde olarak gösteriyor.
+- **Güvenlik:** Kart numarası ve IBAN maskeleme, yatırım tavsiyesi vermeme kuralı, model çıktısının doğrulanması.
+```
+Mobil uygulama ──► Node.js backend ──► Claude
+                         │
+                         └── RAG servisi (Python) ──► Qdrant
+```
+ 
+---
+ 
+### ✍️ AI Engineer Oluyoruz serisi
+ 
+Medium'da her hafta bir konuyu anlatıyorum ve Harcama Koçu'na ekliyorum.
+ 
+| Gün | Konu |
+| --- | --- |
+| 1 | Bir Mobil Geliştirici Neden Yön Değiştirir? |
+| 2 | LLM'ler Aslında Nasıl Çalışıyor? |
+| 3 | Model Metni Nasıl Anlıyor? |
+| 4 | Model Cevabı Nasıl Üretiyor? |
+| 5 | System Prompt, Few-Shot ve Çıktı Doğrulama |
+| 6 | 5 Günde Öğrendiklerimle Bir Uygulama Yaptım |
+| 7 | Koçuma Hesap Makinesi Verdim (Tool Use) |
+| 8 | [Embedding ile Anlamsal Arama](https://medium.com/@bstkpnr/ai-engineer-oluyoruz-embedding-ile-anlamsal-arama-a276aebf3835) |
+| 9 | RAG ile Dokümanlarla Konuşmak |
+ 
+👉 Tüm yazılar: [medium.com/@bstkpnr](https://medium.com/@bstkpnr) · Kodlar: [ai-engineer-lessons](https://github.com/bstkpnr/ai-engineer-lessons)
+ 
+---
+ 
+### 🛠️ Teknolojiler
+ 
+**Mobil ve web**
+ 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+ 
+**Yapay zekâ**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+ 
+Tool use · Embedding · Anlamsal arama · RAG · Hibrit arama · Prompt caching · Streaming · Structured output
+ 
+---
+ 
+### 📫 İletişim
+ 
+[Medium](https://medium.com/@bstkpnr) · [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/beste-tokpinar/)) · [GitHub](https://github.com/bstkpnr)
