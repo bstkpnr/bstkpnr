@@ -75,4 +75,4 @@ Tool use · Embedding · Anlamsal arama · RAG · Hibrit arama · Prompt caching
  
 ### 📫 İletişim
  
-[Medium](https://medium.com/@bstkpnr) · [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/beste-tokpinar/)) · [GitHub](https://github.com/bstkpnr)
+[Medium](https://medium.com/@bstkpnr) · [LinkedIn](https://www.linkedin.com/in/beste-tokpinar/) · [GitHub](https://github.com/bstkpnr)
